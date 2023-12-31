@@ -1,23 +1,8 @@
-<!--
-**chrisallenarmbruster/chrisallenarmbruster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hello, I'm Chris Armbruster 👋
 
 ![Profile Banner](https://your-banner-url.com/banner.png)
 
-I'm a fullstack developer, software engineer, electrical engineer and maker with a passion for creating mobile, desktop, enterprise and IoT applications. Let's connect to discuss what I can do for you.. 
+I'm a fullstack developer, software engineer, electrical engineer and maker with a passion for creating mobile, desktop, enterprise and IoT applications. Let's connect to discuss what I can do for you.
 
 ## About Me
 
@@ -37,7 +22,7 @@ I'm a fullstack developer, software engineer, electrical engineer and maker with
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisallenarmbruster&show_icons=true&count_private=true)
 
 ## My Top Languages
 
