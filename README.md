@@ -26,10 +26,10 @@ I'm a fullstack developer, software engineer, electrical engineer and maker with
 
 ## My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisallenarmbruster&layout=compact)
 
 ## My GitHub Activity
 
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=chrisallenarmbruster&theme=github)
 
 Thanks for visiting my profile! If you have any questions or just want to say hi, feel free to reach out. 😄
