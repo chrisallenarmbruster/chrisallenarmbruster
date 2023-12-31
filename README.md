@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Chris Armbruster 👋
 
 ![Profile Banner](https://your-banner-url.com/banner.png)
 
-I'm a [Your Role] with a passion for [Your Interests]. Welcome to my GitHub profile!
+I'm a fullstack developer, software engineer, electrical engineer and maker with a passion for creating things. Welcome to my GitHub profile!
 
 ## About Me
 
