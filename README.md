@@ -1,6 +1,7 @@
 # Hello, I'm Chris Armbruster 👋
-
+<!--
 ![Profile Banner](https://your-banner-url.com/banner.png)
+-->
 
 I'm a fullstack developer, software engineer, electrical engineer and maker with a passion for creating mobile, desktop, enterprise and IoT applications. Let's connect to discuss what I can do for you.
 
