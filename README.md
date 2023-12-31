@@ -7,7 +7,9 @@ I'm a fullstack developer, software engineer, electrical engineer and maker with
 ## About Me
 
  🌍 Based in Nashville TN
+ 
  📚 Fullstack Academy Grad
+ 
  📚 BSEE Ohio State University
 
 ## What I'm Working On
