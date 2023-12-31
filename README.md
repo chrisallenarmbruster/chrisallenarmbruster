@@ -6,22 +6,25 @@ I'm a fullstack developer, software engineer, electrical engineer and maker with
 
 ## About Me
 
- 🌍 Based in Nashville TN
+ 🌍  Based in Nashville TN
  
- 📚 Fullstack Academy Grad
+ 📚  Fullstack Academy Grad
  
- 📚 BSEE Ohio State University
+ 📚  BSEE Ohio State University
 
 ## What I'm Working On
 
-- 🔭 I'm currently focused on creating user-friendly libraries and modules for DCP, an IoT protocol I developed.  Inspired by the simplicity of Express for Node.js, I aim to do the same for the Internet of Things.
+🔭 I'm currently focused on creating user-friendly libraries and modules for DCP, an IoT protocol I developed.  Inspired by the simplicity of Express for Node.js, I aim to do the same for the Internet of Things.
 
 ## Connect with Me
 
-- 📫 chris@armbrustermail.com
-- 🔗 [My Portfolio](https://portfolio.rev4labs.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chrisallenarmbruster/)
-- 🐦 [Twitter](https://twitter.com/@CAArmbruster/)
+ 📫  chris@armbrustermail.com
+ 
+ 🔗  [My Portfolio](https://portfolio.rev4labs.com)
+ 
+ 🔗  [LinkedIn](https://www.linkedin.com/in/chrisallenarmbruster/)
+ 
+ 🐦  [Twitter](https://twitter.com/@CAArmbruster/)
 
 <!--
 ## My GitHub Stats
