@@ -4,7 +4,9 @@
  
  📚  BSEE Ohio State University
 
-#### What I'm Working On: Creating user-friendly libraries and modules for DCP, an IoT protocol I developed.  Inspired by the simplicity of Express for Node.js, I aim to do the same for the Internet of Things.
+#### What I'm Working On: 
+
+Creating user-friendly libraries and modules for DCP, an IoT protocol I developed.  Inspired by the simplicity of Express for Node.js, I aim to do the same for the Internet of Things.
 
 <!--
 ## My GitHub Stats
