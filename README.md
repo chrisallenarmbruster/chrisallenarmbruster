@@ -20,6 +20,7 @@ I'm a fullstack developer, software engineer, electrical engineer and maker with
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chrisallenarmbruster/)
 - 🐦 [Twitter](https://twitter.com/@CAArmbruster/)
 
+<!--
 ## My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisallenarmbruster&show_icons=true&count_private=true)
@@ -31,5 +32,6 @@ I'm a fullstack developer, software engineer, electrical engineer and maker with
 ## My GitHub Activity
 
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=chrisallenarmbruster&theme=github)
+-->
 
 Thanks for visiting my profile! If you have any questions or just want to say hi, feel free to reach out. 😄
