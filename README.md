@@ -17,34 +17,23 @@ Here are some ideas to get you started:
 
 ![Profile Banner](https://your-banner-url.com/banner.png)
 
-I'm a fullstack developer, software engineer, electrical engineer and maker with a passion for creating things. Welcome to my GitHub profile!
+I'm a fullstack developer, software engineer, electrical engineer and maker with a passion for creating mobile, desktop, enterprise and IoT applications. Let's connect to discuss what I can do for you.. 
 
 ## About Me
 
-- 💼 [Your Job/Role]
-- 🌍 Based in [Your Location]
-- 📚 [Your Education Background]
-- 🚀 [Your Achievements]
-
-## My Interests
-
-- 🌱 [Your Interests/Hobbies]
-- 💻 [Technology Stack]
-- 📖 [Favorite Books]
-- 🎵 [Favorite Music]
+- 🌍 Based in Nashville TN
+- 📚 Fullstack Academy Grad | BSEE Ohio State University
 
 ## What I'm Working On
 
-- 🔭 I'm currently focused on creating user-friendly libraries and modules for DCP, an IoT protocol I developed.  Inspired by the simplicity of Express for Node.js, I wantr to do the same for DCP.
-- 🌟 [Notable Achievements]
-- 🚧 [Upcoming Projects]
+- 🔭 I'm currently focused on creating user-friendly libraries and modules for DCP, an IoT protocol I developed.  Inspired by the simplicity of Express for Node.js, I aim to do the same for the Internet of Things.
 
 ## Connect with Me
 
-- 📫 [Email Address]
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 🐦 [Twitter](https://twitter.com/your-handle/)
-- 📷 [Instagram](https://www.instagram.com/your-handle/)
+- 📫 chris@armbrustermail.com
+- 🔗 [My Portfolio](https://portfolio.rev4labs.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chrisallenarmbruster/)
+- 🐦 [Twitter](https://twitter.com/@CAArmbruster/)
 
 ## My GitHub Stats
 
