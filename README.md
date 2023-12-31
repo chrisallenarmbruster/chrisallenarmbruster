@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chrisallenarmbruster/chrisallenarmbruster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,7 +35,7 @@ I'm a fullstack developer, software engineer, electrical engineer and maker with
 
 ## What I'm Working On
 
-- 🔭 [Current Projects]
+- 🔭 I'm currently focused on creating user-friendly libraries and modules for DCP, an IoT protocol I developed.  Inspired by the simplicity of Express for Node.js, I wantr to do the same for DCP.
 - 🌟 [Notable Achievements]
 - 🚧 [Upcoming Projects]
 
