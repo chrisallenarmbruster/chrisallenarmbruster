@@ -1,4 +1,4 @@
-### Hello 👋, I'm Chris, a fullstack developer, software engineer, electrical engineer and maker.  I love creating mobile, desktop, enterprise and IoT applications. Let's connect to discuss what I can do for you. 
+### Hello 👋, I'm Chris, a fullstack developer, software engineer, electrical engineer and maker.  I love creating mobile, desktop, enterprise and IoT solutions. Let's connect to discuss what I can do for you. 
 
  ⭐ 🎓 📜 Fullstack Academy Grad
  
